@@ -1,0 +1,1 @@
+web: gunicorn knowledge_room.wsgi --log-file -
