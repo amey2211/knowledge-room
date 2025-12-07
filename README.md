@@ -15,6 +15,3 @@ Includes a login system with email and password support, ensuring secure access 
 
 ### 5. Clean & Modern UI
 Built with a dark-themed, elegant design featuring a smooth layout, iconography, and well-structured navigation for a better user experience.
-
-## Purpose
-The project aims to create a collaborative learning environment where people can connect, share knowledge, and enhance their skills together, especially helpful for students, self-learners, and online study groups.
